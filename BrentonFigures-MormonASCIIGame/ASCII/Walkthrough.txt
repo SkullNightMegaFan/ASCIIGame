@@ -1,0 +1,11 @@
+in order to reach the win condition for the game, you must collect all the items in the game. Auto-pick up is enabled for the game so there is no need to type out the get function. 
+All items on the map are represented as i on the main screen. 
+You can type merely w,e,n,s for each of the cardinal directions north, south, east, and west. 
+There are items in the room above the elevator(the starting point), below the elevator and to the east of the elevator
+Once you have the key card item, you will be able to unlock the lock door. There is no function needed to open the door, merely walk over the door
+while the key is in your inventory and you will be able to pass through into the player's room. 
+
+There is one last item in the player's room. Once you have added that to your inventory you will be able to use the unpack command
+(you can also just press u) and the you will be greeted with a win condition and the game will close out. 
+
+
