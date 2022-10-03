@@ -1,0 +1,3 @@
+﻿  GameCore.cpp
+C:\Users\Brenton\source\repos\Game140\ASCII\ASCII\GameCore.cpp(374,169): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ASCII.vcxproj -> C:\Users\Brenton\source\repos\Game140\ASCII\ASCII\x64\Debug\ASCII.exe
